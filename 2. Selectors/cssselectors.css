@@ -1,0 +1,59 @@
+/*1. Element Selector
+p{
+    color: red;
+}
+h2{
+    color:white;
+    background-color: black;
+}
+    */
+    /*2. ID selectors*/
+   /* #PID{
+        color:aqua;
+    }
+        */
+
+     /*   .p1class{
+            color: aqua;
+        }
+        .headingstyles{
+            color:yellow
+
+        }
+            */
+            /*4. Nested selector*/
+          /*  #nestedId{
+                color:red;
+            }
+            .nestedClass{
+                color:blue
+            }
+            p{
+                color:yellow
+            }
+                */
+                /*5. Universal selectors*/
+               /* *{
+                    font-family: 'Courier New', Courier, monospace;
+                    color:green;
+                }
+                    */
+                    /*6. Descendent selector*/
+                  /*  #descen p{
+                        color:red
+
+                    }
+                        */
+                        /* 7. direct child selector*/
+                        #diresel >p{
+                            color:red
+
+                        }
+                        p:hover{
+                            color: green;
+                        }
+
+
+
+    
+            
