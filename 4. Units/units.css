@@ -1,0 +1,16 @@
+main{
+    border: 4px solid brown;
+   /* border-radius: 5%;
+    width:50%
+    */
+    /*width: 50vw;(vw=view width)*/
+    
+}
+section{
+    border: 4px dotted green;
+   /* height: 150 vh;*/
+    width:70 vw;
+}
+h2{
+    font-size: 30px;
+}
