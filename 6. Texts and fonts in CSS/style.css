@@ -1,0 +1,20 @@
+/*h1{
+    color:palevioletred;
+    background-color: darkslategray;
+    text-decoration:wavy;
+    color:black;
+    text-decoration-color:red ;
+
+}
+p{
+    text-align: justify;
+    text-indent: 80px;
+    word-spacing: 10px;
+     text-align: justify;
+     color:transparent;
+     text-shadow: 3px 3px 1px red;
+}
+     */
+     h1{
+        font-family: 'Courier New', Courier, monospace;
+     }
