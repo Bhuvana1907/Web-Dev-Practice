@@ -1,0 +1,20 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.box2{
+    padding:60px;
+}
+div{
+    border:12px solid greenyellow;
+    padding: 10px 40px;
+   /* padding:35px;*/
+  /* padding-left: 305px;*/
+  /* padding-right: 350px;*/
+ /* padding-bottom: 45px;*/
+/* padding-top: 45px;*/
+margin: 40px 40px;
+width:250px;
+height:250px;
+}
