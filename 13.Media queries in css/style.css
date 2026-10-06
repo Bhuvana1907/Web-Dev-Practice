@@ -1,0 +1,18 @@
+body{
+    background-color: aqua;
+}
+/*@media(width<=500px){
+    body{
+    background-color: red;
+    }                       max-width:
+                           min-width:
+    @media(orientation: portrait){
+    body{
+    background-color: red;
+}
+    }*/
+    @media (min-width: 200px) and (max-width: 300px){
+    body{
+    background-color: red;
+    } 
+}         
