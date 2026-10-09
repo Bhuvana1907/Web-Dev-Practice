@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+.nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 50px;
+    background-color: white;
+   
+}
+.logo{
+     color: #40566b;
+}
+.list{
+    list-style: none;
+    display:flex;
+    gap:20px;
+
+}
+.item{
+     background-color: #e8f6ff;
+    color: #00a6ff;
+    border: none;
+    padding: 14px 20px;
+   border-radius: 10px;
+    cursor: pointer;
+}
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 40px;
+    padding: 70px 10%;
+}
+.hero-content {
+    flex: 1;
+}
+.hero-content h1 {
+    font-size: 36px;
+    color: #52616b;
+    line-height: 1.4;
+}
+
+.hero-content h1 span {
+    display: block;
+    color: #00a6ff;
+}
+
+.hero-content p {
+    color: #9ba5ae;
+    line-height: 1.6;
+    margin: 15px 0 25px;
+}
+.book-btn {
+    background-color: #00a6ff;
+    color: white;
+    border: none;
+    padding: 16px 30px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.hero-img {
+    flex: 1;
+    text-align: center;
+}
+.hero-img img {
+    width: 100%;
+    max-width: 350px;
+    height: auto;
+}
+
+.username {
+    background-color: #e8f6ff;
+    color: #00a6ff;
+    border: none;
+    padding: 14px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+}
